@@ -12,4 +12,3 @@ This project is made as simple as possible e has only the data access in a separ
 
 ## Modules
 The modules included in this project are:
- - 
