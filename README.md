@@ -9,3 +9,7 @@ The technologies used in this project are:
  - Postgres as the database.
 
 This project is made as simple as possible e has only the data access in a separete layer, so every one can easily change de database using entity code first.
+
+## Modules
+The modules included in this project are:
+ - 
